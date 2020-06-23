@@ -1,4 +1,4 @@
-# 32.23.06.2020-ASP-practice-day-2
+# Online-Lessons-32.23.06.2020-ASP-practice-day-2
 
 ## Tapşırıq.
 
